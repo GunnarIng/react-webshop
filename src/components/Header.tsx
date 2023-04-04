@@ -30,7 +30,7 @@ function Header() {
             <Box sx={badgeBoxStylesSX} data-cy='cart-link'>
               <Icon.ShoppingBagOutlined sx={iconStylesSX} />
               <img
-                src='../../public/images/gold-musch.png'
+                src='../../images/gold-musch.png'
                 alt='Mustasch'
                 className='mustasch-image'
                 style={{
