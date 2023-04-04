@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/h5FXkH4A)
-# <span style="color:dodgerblue"> **Webshop with React & Typescript** </span>
+
 
 ## <span style="color:dodgerblue"> Description </span>
 
@@ -9,6 +8,7 @@ On the page, there is also the option to edit, add and remove products in the fo
 
 In this assignment, we have used the Material UI design system to import and style components.
 
+[Link to the project](https://gentshat.netlify.app)
 <br>
 
 ## <span style="color:dodgerblue">  Setup Project </span>
