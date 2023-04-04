@@ -4,18 +4,13 @@
   "version": "1.0.0",
   "type": "module",
   "keywords": [],
-  "author": "Plugga Tech",
+  "author": "Thomas, Linus, Simon & Marcus",
   "license": "ISC",
   "scripts": {
-    "postinstall": "plugga init",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "update": "plugga update",
-    "test": "plugga test",
-    "test:run": "plugga test --run",
-    "test:g": "plugga test --run .g.",
-    "test:vg": "plugga test --run .vg."
+
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
